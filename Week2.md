@@ -1,0 +1,3 @@
+What is the internet and how did it come to be?
+
+The internet is a global computer network that holds a vast amount of information and "communication facilities". Designed by the US Department of Defense, a packet-switching network known as Advanced Research Projects Agency Network was invented to allow multiple computers to communicate on the same network. Packet-switching is a way of breaking down data into smaller parts that are then sent to another comuter where they are reassembled. The network was originally invented for military purposes and quickly became a means of communication between scientists.
