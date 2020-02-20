@@ -6,3 +6,5 @@
 3. Dubai's sustainable city aims to be as energy efficient as possible. All structures are design facing specific directions and in specific locations to create cool environments without using energy. All water is treated and reused. Most of the energy used by the city comes from solar panels that also act as shade in the community parking lot. Any extra amenities (like planter boxes) are constructed out of the waste producted from the construction of the city. 
 
 4. Portle is the newest holigram technology that creates a more efficient, and more detailed image. It is not technically a holigram, but a box with a 4k LCD screen that can produce life sized pre recordings or live images. Creator David Nussbaum stated that while developing the technology, he looked at all the reasons somone has chosen not to use a holigram and eliminated all of them.
+
+5. A new machine named the direct air catcher (still a prototype) aims to create a cheap way to extract carbon dioxide from the air, slowly lowering the warming effects of greenhouse gasses in our atmosphere. This would be paired with 
