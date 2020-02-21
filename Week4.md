@@ -7,4 +7,4 @@
 
 4. Portle is the newest holigram technology that creates a more efficient, and more detailed image. It is not technically a holigram, but a box with a 4k LCD screen that can produce life sized pre recordings or live images. Creator David Nussbaum stated that while developing the technology, he looked at all the reasons somone has chosen not to use a holigram and eliminated all of them.
 
-5. A new machine named the direct air catcher (still a prototype) aims to create a cheap way to extract carbon dioxide from the air, slowly lowering the warming effects of greenhouse gasses in our atmosphere. This would be paired with 
+5. A new machine named the direct air catcher (still a prototype) aims to create a cheap way to extract carbon dioxide from the air, slowly lowering the warming effects of greenhouse gasses in our atmosphere. This would need to be paired with an efficient way to dispose of the carbon dioxide. This would include converting the gas into another substance or selling it to soda companies.
