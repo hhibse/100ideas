@@ -10,5 +10,7 @@ https://www.climaterealityproject.org/blog/five-sustainable-cities-making-differ
 https://www.visitcopenhagen.com/copenhagen/activities/go-green-sustainability-guide
 https://www.theguardian.com/sustainable-business/tackling-climate-change-copenhagen-sustainable-city-design
 
+Mindmap: (I tried uploading a picture i'm not sure if it worked)
+
 ![IMG___0515.HEIC]({{site.baseurl}}/IMG_0515.HEIC)
 
